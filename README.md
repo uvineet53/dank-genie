@@ -1,5 +1,5 @@
 #JARVIS
-A custom built Virtual Assistant that can keenly listen and process basic voice commands using the pyttsx3 library.
+A custom built Virtual Assistant that can very keenly listen and process basic voice commands using the pyttsx3 library.
 A few problems that still need to be tackled are support for opening apps directly through voice command.
 Key Features :
 1. Voice search for google.
